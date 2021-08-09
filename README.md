@@ -1,10 +1,6 @@
 # SecureX2
- _____                         __   __ _____ 
-/  ___|                        \ \ / // __  \
-\ `--.  ___  ___ _   _ _ __ ___ \ V / `' / /'
- `--. \/ _ \/ __| | | | '__/ _ \/   \   / /  
-/\__/ /  __/ (__| |_| | | |  __/ /^\ \./ /___
-\____/ \___|\___|\__,_|_|  \___\/   \/\_____/
+
+To use replace run.exe with an exe of your choice, make sure to rename it to run.exe
 
 SecureX is Virtual Environment developed by ProGens to help keep you safe!
 Be safer when running software outside of a VM.
