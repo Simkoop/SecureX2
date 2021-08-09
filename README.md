@@ -5,7 +5,6 @@ To use replace run.exe with an exe of your choice, make sure to rename it to run
 SecureX is Virtual Environment developed by ProGens to help keep you safe!
 Be safer when running software outside of a VM.
 
-==================================================================
 To use just run SecureX2.exe
 ------------------------------------------------------------------
 Most malware will be contained in the sandbox, no need for a VM.
