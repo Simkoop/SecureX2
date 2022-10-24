@@ -7,8 +7,6 @@ Be safer when running software outside of a VM.
 
 To use just replace run.exe with an exe of your choice, make sure to rename it to run.exe then run SecureX2.exe
 ------------------------------------------------------------------
-Most malware will be contained in the sandbox, no need for a VM.
-==================================================================
 
 What this PROTECTS against:
  - Keyloggers: No keylogging can be done from withing or into the sandbox
